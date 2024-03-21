@@ -7,8 +7,8 @@ Everything else needed has been either implemented in python, or in c++ for thin
 
 <h3>How to use it</h3>
 <ul>
-    <li>First, download the built executable and run it.</li>
-    <li>Second, set up its root environment.</li>
+    <li>First, download the source files and compile them using a python builder like PyInstaller.</li>
+    <li>Second, After running the 'installer', set up its root environment.</li>
     <li>Third, create a user.</li>
     <li>Fourth, Enjoy the desktop evironment.</li>
 </ul>
