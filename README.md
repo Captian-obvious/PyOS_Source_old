@@ -1,4 +1,4 @@
-<h1><em>THIS PROJECT HAS SUPERCEEDED BY </em><a href='https://github.com/Captian-obvious/PyOS_Linux'>PyOS_Linux</a>/h1>
+<h1><em>THIS PROJECT HAS SUPERCEEDED BY </em><a href='https://github.com/Captian-obvious/PyOS_Linux'>PyOS_Linux</a></h1>
 <h1>PyOS</h1>
 <h2>A linux-like desktop evironment written entirely in python (with tkinter).</h2>
 This has taken a very long time to implement but here is the first look at PyOS, a linux-like desktop evironment written entirely (besides a few mandatory .so files) in python.
